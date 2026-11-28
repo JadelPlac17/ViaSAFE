@@ -1,0 +1,61 @@
+id,fecha,hora,categoria,descripcion,latitud,longitud,severidad,tipo_dato
+DEMO-001,2026-09-27,17:00,Accidente,Choque (registro de demostración),18.5048,-69.8918,Leve,SIMULADO
+DEMO-002,2026-10-14,02:15,Accidente,Choque (registro de demostración),18.4877,-69.9323,Leve,SIMULADO
+DEMO-003,2026-11-21,18:00,Bache,Hueco profundo (registro de demostración),18.4697,-69.9432,Moderada,SIMULADO
+DEMO-004,2026-09-10,13:15,Cruce peligroso,Sin semáforo (registro de demostración),18.4697,-69.9446,Moderada,SIMULADO
+DEMO-005,2026-11-19,20:15,Accidente,Choque (registro de demostración),18.5032,-69.8907,Leve,SIMULADO
+DEMO-006,2026-09-16,21:45,Cruce peligroso,Sin semáforo (registro de demostración),18.5172,-69.9195,Grave,SIMULADO
+DEMO-007,2026-09-26,05:15,Iluminación,Luminaria dañada (registro de demostración),18.4718,-69.9437,Leve,SIMULADO
+DEMO-008,2026-10-20,02:00,Señalización,Señal ausente (registro de demostración),18.5031,-69.8899,Moderada,SIMULADO
+DEMO-009,2026-10-02,21:00,Señalización,Señal ausente (registro de demostración),18.493,-69.9289,Grave,SIMULADO
+DEMO-010,2026-11-26,14:00,Señalización,Señal ausente (registro de demostración),18.5024,-69.892,Grave,SIMULADO
+DEMO-011,2026-11-23,09:45,Accidente,Choque (registro de demostración),18.5029,-69.8907,Leve,SIMULADO
+DEMO-012,2026-10-06,19:00,Señalización,Señal ausente (registro de demostración),18.473,-69.9441,Moderada,SIMULADO
+DEMO-013,2026-10-13,15:00,Bache,Hueco profundo (registro de demostración),18.4931,-69.929,Leve,SIMULADO
+DEMO-014,2026-11-09,22:45,Señalización,Señal ausente (registro de demostración),18.4717,-69.942,Fatal,SIMULADO
+DEMO-015,2026-09-06,04:15,Bache,Hueco profundo (registro de demostración),18.491,-69.9275,Moderada,SIMULADO
+DEMO-016,2026-10-01,04:45,Iluminación,Luminaria dañada (registro de demostración),18.486,-69.9308,Moderada,SIMULADO
+DEMO-017,2026-11-21,21:00,Cruce peligroso,Sin semáforo (registro de demostración),18.5048,-69.8906,Moderada,SIMULADO
+DEMO-018,2026-10-04,15:45,Señalización,Señal ausente (registro de demostración),18.4907,-69.9297,Leve,SIMULADO
+DEMO-019,2026-10-20,01:00,Accidente,Choque (registro de demostración),18.488,-69.9314,Leve,SIMULADO
+DEMO-020,2026-09-03,06:45,Cruce peligroso,Sin semáforo (registro de demostración),18.4921,-69.9257,Leve,SIMULADO
+DEMO-021,2026-09-04,15:45,Señalización,Señal ausente (registro de demostración),18.5048,-69.891,Moderada,SIMULADO
+DEMO-022,2026-11-09,15:15,Iluminación,Luminaria dañada (registro de demostración),18.5013,-69.893,Moderada,SIMULADO
+DEMO-023,2026-11-18,00:30,Bache,Hueco profundo (registro de demostración),18.4938,-69.9274,Fatal,SIMULADO
+DEMO-024,2026-09-12,07:30,Iluminación,Luminaria dañada (registro de demostración),18.4869,-69.9322,Moderada,SIMULADO
+DEMO-025,2026-09-17,15:30,Bache,Hueco profundo (registro de demostración),18.4932,-69.9262,Grave,SIMULADO
+DEMO-026,2026-11-20,11:45,Bache,Hueco profundo (registro de demostración),18.4873,-69.9313,Grave,SIMULADO
+DEMO-027,2026-09-08,03:15,Iluminación,Luminaria dañada (registro de demostración),18.4915,-69.9275,Moderada,SIMULADO
+DEMO-028,2026-09-16,20:30,Cruce peligroso,Sin semáforo (registro de demostración),18.5018,-69.8909,Grave,SIMULADO
+DEMO-029,2026-11-25,06:45,Señalización,Señal ausente (registro de demostración),18.4874,-69.9327,Grave,SIMULADO
+DEMO-030,2026-10-13,23:00,Señalización,Señal ausente (registro de demostración),18.4727,-69.9442,Grave,SIMULADO
+DEMO-031,2026-10-26,20:15,Cruce peligroso,Sin semáforo (registro de demostración),18.494,-69.9294,Moderada,SIMULADO
+DEMO-032,2026-11-05,00:00,Cruce peligroso,Sin semáforo (registro de demostración),18.4721,-69.9441,Grave,SIMULADO
+DEMO-033,2026-10-28,06:15,Bache,Hueco profundo (registro de demostración),18.4901,-69.9292,Leve,SIMULADO
+DEMO-034,2026-10-09,17:45,Cruce peligroso,Sin semáforo (registro de demostración),18.4912,-69.9285,Grave,SIMULADO
+DEMO-035,2026-11-19,16:45,Señalización,Señal ausente (registro de demostración),18.4877,-69.9318,Grave,SIMULADO
+DEMO-036,2026-09-28,14:15,Cruce peligroso,Sin semáforo (registro de demostración),18.5149,-69.9212,Moderada,SIMULADO
+DEMO-037,2026-11-02,10:45,Accidente,Choque (registro de demostración),18.4907,-69.9276,Grave,SIMULADO
+DEMO-038,2026-10-02,03:45,Bache,Hueco profundo (registro de demostración),18.4876,-69.933,Moderada,SIMULADO
+DEMO-039,2026-11-17,06:30,Cruce peligroso,Sin semáforo (registro de demostración),18.4859,-69.9307,Moderada,SIMULADO
+DEMO-040,2026-10-18,06:45,Cruce peligroso,Sin semáforo (registro de demostración),18.4715,-69.9445,Leve,SIMULADO
+DEMO-041,2026-10-03,06:30,Bache,Hueco profundo (registro de demostración),18.4857,-69.9319,Grave,SIMULADO
+DEMO-042,2026-09-09,04:45,Iluminación,Luminaria dañada (registro de demostración),18.4938,-69.9269,Leve,SIMULADO
+DEMO-043,2026-09-23,13:45,Bache,Hueco profundo (registro de demostración),18.4857,-69.9313,Leve,SIMULADO
+DEMO-044,2026-09-11,17:45,Iluminación,Luminaria dañada (registro de demostración),18.4914,-69.9291,Moderada,SIMULADO
+DEMO-045,2026-11-03,03:15,Iluminación,Luminaria dañada (registro de demostración),18.4856,-69.9311,Fatal,SIMULADO
+DEMO-046,2026-10-25,04:45,Bache,Hueco profundo (registro de demostración),18.4844,-69.9321,Grave,SIMULADO
+DEMO-047,2026-11-16,22:30,Cruce peligroso,Sin semáforo (registro de demostración),18.5026,-69.8913,Leve,SIMULADO
+DEMO-048,2026-10-01,20:00,Accidente,Choque (registro de demostración),18.4873,-69.9325,Grave,SIMULADO
+DEMO-049,2026-09-15,00:30,Iluminación,Luminaria dañada (registro de demostración),18.4865,-69.9323,Fatal,SIMULADO
+DEMO-050,2026-09-17,22:15,Bache,Hueco profundo (registro de demostración),18.4732,-69.9444,Fatal,SIMULADO
+DEMO-051,2026-11-10,16:15,Iluminación,Luminaria dañada (registro de demostración),18.491,-69.9288,Leve,SIMULADO
+DEMO-052,2026-09-01,00:15,Iluminación,Luminaria dañada (registro de demostración),18.4911,-69.9263,Moderada,SIMULADO
+DEMO-053,2026-11-16,17:45,Señalización,Señal ausente (registro de demostración),18.4937,-69.9291,Fatal,SIMULADO
+DEMO-054,2026-09-27,22:15,Iluminación,Luminaria dañada (registro de demostración),18.5038,-69.8895,Moderada,SIMULADO
+DEMO-055,2026-09-21,23:30,Accidente,Choque (registro de demostración),18.5049,-69.8901,Moderada,SIMULADO
+DEMO-056,2026-11-10,19:15,Cruce peligroso,Sin semáforo (registro de demostración),18.4844,-69.9298,Moderada,SIMULADO
+DEMO-057,2026-09-09,11:30,Señalización,Señal ausente (registro de demostración),18.4859,-69.9326,Fatal,SIMULADO
+DEMO-058,2026-09-12,05:00,Iluminación,Luminaria dañada (registro de demostración),18.502,-69.8895,Leve,SIMULADO
+DEMO-059,2026-09-17,00:00,Bache,Hueco profundo (registro de demostración),18.486,-69.9312,Leve,SIMULADO
+DEMO-060,2026-09-10,09:15,Señalización,Señal ausente (registro de demostración),18.4847,-69.9309,Leve,SIMULADO
